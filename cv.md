@@ -23,9 +23,7 @@ Junior Frontend Developer
 ###### **B2**
 ## **About Me**
 I am a lawyer by education. I have been working in jurisprudence for 13 years (since 2008), 8 years of which - in the field of sports (Belarusian Ice Hockey Federation, Directorates for the Ice Hockey World Championships, ice hockey clubs). 
-
 I have good interpersonal skills, can work in a team and can find a way out of any situation. Ability to work in multitasking mode and high analytical skills allow me to work effectively with large amounts of information, quickly find high-quality solutions to complex problems. 
-
 At the moment I have a keen desire to learn and develop in IT as a frontend developer. 
 ## **Skills**
 ##### **HTML**
